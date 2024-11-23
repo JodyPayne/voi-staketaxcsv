@@ -1,1 +1,0 @@
-MINTSCAN_LABEL_ROWAN = "sifchain"

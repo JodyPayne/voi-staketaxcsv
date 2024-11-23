@@ -1,7 +1,0 @@
-MINTSCAN_LABEL_DYM = "dymension"
-CURRENCY_DYM = "DYM"
-EXCHANGE_DYM = "dym_blockchain"
-MILLION = 1000000
-EXP18 = 10**18
-
-MSG_TYPE_ETHEREUM_TX = "MsgEthereumTx"

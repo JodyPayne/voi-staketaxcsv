@@ -1,1 +1,0 @@
-MINTSCAN_LABEL_TORI = "teritori"

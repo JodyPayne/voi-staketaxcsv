@@ -1,4 +1,0 @@
-MINTSCAN_LABEL_TIA = "tia"
-CURRENCY_TIA = "TIA"
-EXCHANGE_CELESTIA = "celestia_blockchain"
-MILLION = 1000000

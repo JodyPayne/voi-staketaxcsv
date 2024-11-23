@@ -1,2 +1,0 @@
-MINTSCAN_LABEL_AKT = "akash"
-NATIVE_DENOM = "uakt"

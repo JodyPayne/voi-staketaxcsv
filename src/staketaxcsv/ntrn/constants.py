@@ -1,2 +1,0 @@
-MINTSCAN_LABEL_NTRN = "ntrn"
-MSG_TYPE_EXECUTE_CONTRACT = "MsgExecuteContract"

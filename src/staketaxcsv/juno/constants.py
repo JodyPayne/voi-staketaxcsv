@@ -1,3 +1,0 @@
-MINTSCAN_LABEL_JUNO = "juno"
-
-MSG_TYPE_EXECUTE_CONTRACT = "MsgExecuteContract"

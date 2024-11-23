@@ -1,1 +1,0 @@
-MINTSCAN_LABEL_BLD = "bld"
